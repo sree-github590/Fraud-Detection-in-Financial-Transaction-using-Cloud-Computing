@@ -1,6 +1,6 @@
 # Fraud-Detection-in-Financial-Transaction-using-Cloud-Computing
 
-This project implements a **fraud detection system** for financial transactions, combining **machine learning (ML)** with **AWS EC2 cloud infrastructure** for real-time predictions. The system is built upon a modified version of a pre-trained ML model from [RaimbekovA's repository](https://github.com/RaimbekovA/bank-card-fraud-detection-using-machine-learning.git), with customizations made to fit our use case. The training dataset is sourced from Kaggle.  
+This project implements a **fraud detection system** for financial transactions, combining **machine learning (ML)** with **AWS EC2 cloud infrastructure** for real-time predictions. The system is built upon a modified version of dataset from Kaggle, with customizations made to fit our use case. The training dataset is sourced from Kaggle.  
 
 ---
 
@@ -103,16 +103,14 @@ http://<EC2_PUBLIC_IP>:8501/
 
 ---
 
-## Customizations and Contributions  
-- Modified the model from the original [RaimbekovA repository](https://github.com/RaimbekovA/bank-card-fraud-detection-using-machine-learning.git).  
+## Customizations and Contributions   
 - Integrated custom preprocessing pipelines to better align with the Kaggle dataset.  
 - Deployed an optimized API for faster predictions.  
 
 ---
 
 ## References  
-- **Kaggle Dataset**: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
-- **Original ML Model Repository**: [RaimbekovA's GitHub](https://github.com/RaimbekovA/bank-card-fraud-detection-using-machine-learning.git)  
+- **Kaggle Dataset**: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)   
 
 --- 
 
